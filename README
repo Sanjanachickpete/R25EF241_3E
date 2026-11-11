@@ -1,1 +1,25 @@
-Hello World!
+# VS Code Extensions Tour
+
+Example files for the Python, Java, and Prettier activities:
+
+- `hello.py` prints a Python greeting.
+- `Test.java` prints a Java greeting.
+- `sample.html` is a consistently formatted HTML file to open and format with Prettier.
+
+Run the examples from this folder:
+
+```powershell
+python hello.py
+java Test.java
+```
+
+## Comparison
+
+Python's language support changed day-to-day editing the most by adding
+IntelliSense and a quick run workflow, while Prettier improves code
+consistency and GitLens and Live Share focus on history and collaboration.
+I would keep GitLens enabled across projects and use language-specific
+extensions such as Python or Java only where those languages are used.
+Live Share makes pair programming more interactive than screen sharing
+because both partners can edit the same files and see each other's cursors,
+rather than only watching one person's screen.
