@@ -9,3 +9,5 @@ practice, technical skills, projects,
 and learning progress.
 
 Learning Python and Java programming.
+
+Interested in web development and technology.
