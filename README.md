@@ -7,3 +7,5 @@ Computer Science and Engineering.
 This repository contains my programming
 practice, technical skills, projects,
 and learning progress.
+
+Learning Python and Java programming.
