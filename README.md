@@ -11,3 +11,5 @@ and learning progress.
 Learning Python and Java programming.
 
 Interested in web development and technology.
+
+Goal: Build projects and contribute to open source.
