@@ -1,0 +1,3 @@
+Welcome to GitLens
+This is my first tracked file.
+I am learning VS Code extensions.
